@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=bj.hwang&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Backend%20Engineer%20%40%20Mozzet&descAlignY=58&descSize=18" width="100%" alt="bj.hwang · Backend Engineer @ Mozzet"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=header" width="100%" alt=""/>
+
+<h1>bj.hwang</h1>
+<p><b>Backend Engineer @ Mozzet</b><br/>서버를 만들고, 지키고, 더 빠르게</p>
 
 <a href="https://github.com/mozzet"><img src="https://img.shields.io/badge/Mozzet-Backend%20Engineer-2c5364?style=flat-square" alt="Mozzet"/></a>
 <a href="mailto:bj.hwang@mozzet.com"><img src="https://img.shields.io/badge/Email-bj.hwang%40mozzet.com-203a43?style=flat-square&logo=maildotru&logoColor=white" alt="Email"/></a>
